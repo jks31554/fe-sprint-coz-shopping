@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Intel';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Intel';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./Inter-Bold.ttf);
+}
